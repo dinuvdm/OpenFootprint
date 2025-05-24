@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-05-23T10:09:05.044788Z'
+  updated_on: '2025-05-24T11:29:07.812643Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -304,12 +304,12 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-05-23T21:40:17.595001Z'
+  updated_on: '2025-05-24T22:10:06.964573Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 1.599303181 kgCO2e
 plant_geography:
-- US-KS
 - US-GA
+- US-KS
 - US-CA
 plant_or_group:
   categories: []
@@ -320,8 +320,8 @@ plant_or_group:
   id: 4e7fd516d9bf450f975d5d55ba9c5602
   is_failed: false
   jurisdiction:
-  - US-KS
   - US-GA
+  - US-KS
   - US-CA
   name: Athens, GA/Chowchilla, CA/Kansas City, KS
   owned_by:

@@ -40,7 +40,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30161501'
-  updated_on: '2025-05-23T10:09:01.041876Z'
+  updated_on: '2025-05-24T11:29:03.718532Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '001'
@@ -91,7 +91,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-23T10:09:01.089356Z'
+  updated_on: '2025-05-24T11:29:03.767785Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
@@ -299,16 +299,16 @@ pcr:
   version: '1.0'
 pct80_gwp_per_category_declared_unit: 38.6683082 kgCO2e
 plant_geography:
-- US-IA
-- US-PA
-- US-TX
 - US
-- US-FL
-- US-AL
-- US-IN
 - US-UT
-- US-CA
+- US-PA
 - US-OR
+- US-CA
+- US-AL
+- US-TX
+- US-FL
+- US-IA
+- US-IN
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -470,8 +470,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
